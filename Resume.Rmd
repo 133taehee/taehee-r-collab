@@ -10,7 +10,7 @@ fontawesome: TRUE
 email: tl592@cornell.edu
 phone: 805-300-8160
 location: "Ithaca, NY/Lawrenceville, NJ"
-github: 133taehee
+#github: 133taehee
 #web: wwe.com/superstars/rick-martel
 #twitter: "@rickmartelWWE"
 linkedin: "taehlee"
@@ -22,7 +22,7 @@ urlcolor: blue
 fontsize: 11pt
 
 includephoto: FALSE
-myphoto: rick-martel-crop.jpg
+myphoto: headshot.jpg
 # shift: "7in,-.25in" # this is default
 photobigness: 1.75cm
 # photozoom: ".2\textwidth" # this is default
@@ -36,34 +36,32 @@ photobigness: 1.75cm
 
 # Professional Experience
 
-## World Championship Wrestling
+## R&D Engineer | Medtronic Diabetes, Northridge CA
 
-- Successfully feuded with Booker T, elevating his singles career.
-- Defenestrated on national television by Perry Saturn. It was technically a glass door, but I love the term "defenestration" and I don't get to use it much so I'm rolling with that.
-- Career effectively ended at Superbrawl VIII (:()
+- Collaborated in cross-functional engineering groups to ensure developing product designs met product requirements, regulatory guidelines, and international standards
+-	Defined design requirements, specifications, and test methodologies for product in development
+-	Analyzed and verified product designs and validated product manufacturing processes
+-	Guided team members on verification, validation, and qualification activities for product development
+-	Designed, set up, and executed experiments to evaluate design concepts
+-	Communicated with FDA representatives to improve validation protocols and documentation
+-	Managed process characterizations and validations in accordance with medical regulatory guidelines
+-	Performed and reported process validations and part qualifications for products in production and in development
 
-## World Wrestling Federation
 
-- Runner-up in 1993 Intercontinental Championship Battle Royal (to Razor Ramon).
-- Wrestled Shawn Michaels to a countout draw in front of 80,000 fans in Wembley Stadium at Summerslam 1992.
-- Carried Tito Santana like dead weight to tag team prominence, before [tiring of him at Wrestlemania V](https://www.youtube.com/watch?v=VKnWAxg4R68).
-- Had two amazing entrance themes where somehow the least amazing of the two is [the one done by Robbie Dupree](https://www.youtube.com/watch?v=1bNr3144GDI).
-- Successfully cultivated "The Model" persona, relocating to Cocoa Beach for a gimmick that was years ahead of its time.
-- Launched successful line of cologne, *Arrogance*, and advertised it in [some amazing vignettes](https://www.youtube.com/watch?v=zm9AbH7CnBc).
-- [Temporarily blinded Jake "The Snake" Roberts](https://www.youtube.com/watch?v=cs7sxJboGWA), incapacitating him for the better part of 1990.
-- Successfully teamed with Tony Garea and briefly with Tom Zenk before Tom Zenk got apparently got weird about pay disparities.
+## Research Technician | Children's Hospital of Philadelphia, Philadelphia PA
 
-## American Wrestling Association
+*A zebrafish model of Friedreich ataxia for drug screening*
 
-- [Beat Jumbo goddamn Tsuruta for AWA World Heavyweight Championship](https://www.youtube.com/watch?v=c3O_jGZd6EI). 
-- I'm going to make that another entry because seriously how cool is Jumbo as a proverbial notch on the belt? Jumbo Tsuruta was *the* Japanese pro-wrestler of the 1980s.
-- Wrestled several matches with then-NWA World Champion Ric Flair.
+-	Lead investigator - Developed and validated CRISPR-Cas9 modified zebrafish through verification of mutant genotypes, evaluation of disease-associated phenotypes and face validity
+-	Relevant techniques: antibody validation, SDS-PAGE, Western blot, qPCR, TIDE (Tracking of Indels by DEcomposition)
 
-## Other Territories
+*Screening of random shRNA-expressing library in a cellular model of MELAS (Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-like episodes)*
 
-- Emerged as top talent in the Pacific Northwest territory for the NWA.
-- Successfully teamed with Roddy Piper, winning a total of four tag team championships.
-- Feature attraction in multiple territories in Canada (e.g. Stampede Wrestling), Puerto Rico (World Wrestling Council), and the United States (e.g. Georgia Championship Wrestling)
+-	Lead investigator - Identified reproducible conditions for in vitro screening, screened shRNA library and cloned candidates, investigated potentially affected pathways in MELAS
+-	Relevant techniques: gene cloning, Seahorse metabolic assay, Oroboros respirometry assay, enzymatic assays, ELISA, flow cytometry
+
+
+
 
 
 
