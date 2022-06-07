@@ -8,20 +8,149 @@
 
 
 :root{
+  --margin-left: 0.2in;
   --sidebar-width: 12rem; /* side bar width */
-  --sidebar-background-color: #a2e2e2;
-  --decorator-border: 2px solid #a2e2e2; /* change color and thickness of timeline */
+  --sidebar-background-color: #222222;
+  
+  --sidebar-horizontal-padding: 0.0in;
+
+  --decorator-border: 2px solid #b31b1b; /* change color and thickness of timeline */
 
 }
+
+a:link{
+  color: white;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+}
+
+
+/** big title **/
+h1, h2{
+  text-transform: uppercase;
+}
+
+#title{
+  position: relative;
+  left: 0.12in;
+  top: 0.2in;
+  margin: auto 0.55in 0.3in auto;
+  line-height: 1.2;
+}
+
+#title h1{
+  font-weight: 300;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+#title h3{
+  font-size: 0.8rem;
+}
+
+
 
 .decorator::after{
-  background-color: #a2e2e2; /* change color timeline dots */
+  background-color: #b31b1b; /* change color timeline dots */
 
 }
+
+.details{
+  flex: 1 0 0;
+  padding-left: var(--decorator-horizontal-margin);
+  padding-top: calc(var(--row-blocks-padding-top) - 0.5rem) !important; /* not sure why but this is needed for better alignment */
+}
+
+/* Sidebar width and stuff */
+#aside{
+  position: relative; /* for disclaimer */
+  height: var(--content-area-height);
+}
+
+.aside{
+  width: var(--sidebar-width);
+  padding: 0.3in var(--sidebar-horizontal-padding);
+  font-size: 0.8rem;
+  float: right;
+  position: absolute;
+  right: 0;
+  margin-right: 0.08in;
+  margin-left:0.1in;
+  color: #F7F7F7;
+}
+
 
 
 /* Define the font family here */
 body{
   font-family: "Roboto", sans-serif;
 
+}
+
+
+/* sidebar */
+
+
+.aside h2{
+  font-weight: 900;
+  font-size: 0.90rem;
+  color: #F7F7F7;
+}
+
+.aside .level2{
+  margin-top: 0.05in;
+  margin-right: 0.01in;
+  margin-left: 0.01in;
+}
+
+#contact{
+  padding-top: 0.3in;
+}
+
+#contact ul{
+  margin-top: 0.05in;
+  margin-left:0.01in;
+  margin-right:0.01in;
+  padding-left: 0;
+  padding-bottom: 0.3in;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+#contact li > i{
+  width: 0.9rem; /* for text alignment */
+  text-align: right;
+}
+
+#skills{
+  line-height: 1.5;
+  padding-bottom: 0.1in;
+}
+
+#skills ul{
+  margin: 0.05in 0 0.05in;
+  padding: 0;
+}
+
+#disclaimer{
+  position: absolute;
+  bottom: 0;
+  right: var(--sidebar-horizontal-padding);
+  font-size: 0.75rem;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: right;
+  color: #777;
+}
+
+#disclaimer code{
+  color: #666;
+  font-family: "Source Code Pro";
+  font-weight: 400;
+  font-style: normal;
 }

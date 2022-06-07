@@ -1,0 +1,197 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by
+% Vel (vel@LaTeXTemplates.com)
+%
+% Adapted to be an Rmarkdown template by Rob J Hyndman
+% 23 November 2018
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper,]{twentysecondcv}
+
+\usepackage[scaled=0.86]{DejaVuSansMono}
+
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{csquotes}
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+\usepackage{booktabs}
+
+
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+% Profile pic
+\profilepic{headshot.jpg}
+
+\cvname{Taehee Lee} % Your name
+
+\cvjobtitle{Biomedical Engineer} % Job title/career
+\cvdate{May 2022} % Date of birth or date of CV??
+\cvaddress{Ithaca,
+NY} % Short address/location, use \newline if more than 1 line is required
+\cvnumberphone{805 300 8160} % Phone number
+\cvsite{} % Personal website
+\cvmail{\href{mailto:tl592@cornell.edu}{\nolinkurl{tl592@cornell.edu}}} % Email address
+\cvtwitter{}
+\cvgithub{}
+\cvlinkedin{\href{https://www.linkedin.com/in/taehlee}{taehlee}}
+
+\lfoot{\sf Curriculum Vitae: Taehee Lee}
+\rfoot{\sf\thepage}
+
+% Pandoc CSL macros
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[3] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\begin{document}
+\aboutme{Biomedical engineer and molecular biologist with experience in
+medical device industry and academic medical research looking for
+biotechnology/medical technology challenges that require innovative and
+unique solutions.}
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+%\skills{{pursuer of rabbits/5.8},{good manners/4},{outgoing/4.3},{polite/4},{Java/0.01}}
+
+% Skill text section, each skill must have a value between 0 an 6
+%\skillstext{{lovely/4},{narcissistic/3}}
+
+\makeprofile % Print the sidebar
+
+
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\nopagebreak
+
+\begin{twenty}
+    \twentyitem{2022}{Biomedical Engineering, MEng}{Cornell University | Ithaca, NY}{GPA: 4.00\par\empty}
+    \twentyitem{2017}{Pre-Health, Certificate}{University of Pennsylvania | Philadelphia, PA}{GPA: 3.79\par\empty}
+    \twentyitem{2013}{Biomedical Engineering, BS}{Northwestern University | Evanston, IL}{GPA: 3.07\par\empty}
+\end{twenty}
+
+\hypertarget{related-experience}{%
+\section{Related Experience}\label{related-experience}}
+
+\hypertarget{project-lead-cornell-university-ithaca-ny}{%
+\subsection{Project Lead \textbar{} Cornell University, Ithaca
+NY}\label{project-lead-cornell-university-ithaca-ny}}
+
+\nopagebreak
+
+\begin{twenty}
+    \twentyitem{2021-2022}{Liquid ventilation system for management of Acute Respiratory Distress Syndrome (ARDS)}{}{\empty\begin{minipage}{0.7\textwidth}%
+\begin{itemize}%
+\item Led engineering team in designing solution to address challenges of delivering oxygen to patients with ARDS%
+\item Tracked team progress using Atlassian Jira and met goal of delivering a transportable functional prototype%
+\item Created CAD of components and full assembly for modeling physical integration%
+\item Integrated mechanical, electronic, and sensor components into a functioning system under time pressure%
+\end{itemize}%
+\end{minipage}}
+\end{twenty}
+
+\hypertarget{childrens-hospital-of-philadelphia-philadelphia-pa-research-technician}{%
+\subsection{Children's Hospital of Philadelphia, Philadelphia PA~ ~ ~ ~
+Research
+Technician}\label{childrens-hospital-of-philadelphia-philadelphia-pa-research-technician}}
+
+\nopagebreak
+
+\begin{twenty}
+    \twentyitem{2019-2021}{A zebrafish model of Friedreich ataxia for drug screening}{}{\empty\begin{minipage}{0.7\textwidth}%
+\begin{itemize}%
+\item Lead investigator - Developed and validated CRISPR-Cas9 modified zebrafish through verification of mutant genotypes, evaluation of disease-associated phenotypes and face validity%
+\end{itemize}%
+\end{minipage}}
+    \twentyitem{2017-2019}{Screening of random shRNA-expressing library in a cellular model of MELAS}{}{\empty\begin{minipage}{0.7\textwidth}%
+\begin{itemize}%
+\item Lead investigator - Identified reproducible conditions for in vitro screening, screened shRNA library and cloned candidates, investigated potentially affected pathways in MELAS%
+\end{itemize}%
+\end{minipage}}
+\end{twenty}
+
+\begin{itemize}
+\tightlist
+\item
+  I poisoned myself doing research.
+\item
+  I was the first woman to win a Nobel prize
+\item
+  I was the first person and only woman to win a Nobel prize in two
+  different sciences.
+\end{itemize}
+
+\hypertarget{nobel-prizes}{%
+\section{Nobel Prizes}\label{nobel-prizes}}
+
+\nopagebreak
+
+\begin{twentyshort}
+    \twentyitemshort{1903}{Nobel Prize in Physics. Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel}
+    \twentyitemshort{1911}{Nobel Prize in Chemistry. Awarded for the discovery of radium and polonium}
+\end{twentyshort}
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\hypertarget{bibliography}{}
+\leavevmode\vadjust pre{\hypertarget{ref-R-vitae}{}}%
+\CSLLeftMargin{1. }
+\CSLRightInline{O'Hara-Wild, M., \& Hyndman, R. (2021). \emph{Vitae:
+Curriculum vitae for r markdown}.
+\url{https://CRAN.R-project.org/package=vitae}}
+
+\leavevmode\vadjust pre{\hypertarget{ref-R-tibble}{}}%
+\CSLLeftMargin{2. }
+\CSLRightInline{Müller, K., \& Wickham, H. (2021). \emph{Tibble: Simple
+data frames}. \url{https://CRAN.R-project.org/package=tibble}}
+
+
+\end{document}

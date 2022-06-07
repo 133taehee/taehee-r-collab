@@ -1,7 +1,7 @@
 ---
 title: "Résumé"
 author: "Taehee Lee"
-date: "2/13/2022"
+date: "5/25/2022"
 output: 
   stevetemplates::resume:
     dev: cairo_pdf
@@ -11,8 +11,8 @@ email: tl592@cornell.edu
 phone: 805-300-8160
 location: "Ithaca, NY/Lawrenceville, NJ"
 #github: 133taehee
-#web: wwe.com/superstars/rick-martel
-#twitter: "@rickmartelWWE"
+#web: 
+#twitter: ""
 linkedin: "taehlee"
 geometry: "top=.5in, left =.5in, right=.5in, bottom=.75in"
 mainfont: cochineal
@@ -21,9 +21,9 @@ sansfont: Fira Sans
 urlcolor: blue
 fontsize: 11pt
 
-includephoto: FALSE
+includephoto: TRUE
 myphoto: headshot.jpg
-# shift: "7in,-.25in" # this is default
+#shift: "7in,-.25in" # this is default
 photobigness: 1.75cm
 # photozoom: ".2\textwidth" # this is default
 ---
@@ -74,37 +74,40 @@ photobigness: 1.75cm
 
 # Education
 
-To continue the theme of this résumé, pro wrestlers of the time were typically not the kind that had university degrees, but you can insert your own here.
+## Master of Engineering, Biomedical Engineering
 
-## Postgraduate Program
-
-Ph.D. in Boston Crab Studies
+Cornell University
+Ithaca, NY | May 2022
  
-## Undergraduate Program
+## Certificate, Pre-Health
 
-B.A. in something or other.
+University of Pennsylvania
+Philadelphia, PA | Aug 2017
 
-# Technical Skills (or Accomplishments)
+## Bachelor of Science, Biomedical Engineering
 
-Put your technical skills here, or, if you're Rick Martel, list your pro-wrestling accolades.
+Northwestern University
+Evanston, IL | Jun 2013
 
-## Championships
+# Skills
 
-- AWA World Heavyweight Championship (1984)
-- WCW World Television Championship (1998)
-- NWA Pacific Northwest Heavyweight Championship (1980)
-- NWA Pacific International Championship (1978)
-- WWF Tag Team Championship (2x with Tony Garea, 1x with dead-weight Tito Santana)
-- NWA Pacific Northwest Tag Team Championship (3x, with Roddy Piper in 1980)
-- WWC North American Tag Team Championship (with Pierre Martel)
+## Technical
 
-## Awards and Distinctions
+- Molecular biology techniques
+- Mammalian cell culture
+- Statistical analysis (Excel, Minitab, R)
+- CAD (Solidworks, Fusion 360)
+- Engineering analysis
+- MATLAB
+- COMSOL
+- ANSYS
 
-- Pro Wrestling Hall of Fame (Class of 2015)
-- New England Pro Wrestling Hall of Fame (Class of 2011)
-- Ranked #48 of the 500 best singles wrestlers ("PWI Years", 2003)
-- Ranked #70 (with dead-weight Tito Santana) of the 100 best tag teams ("PWI Years", 2003)
-- World's Strongest Tag Determination League Fighting Spirit Award (1986)
+## Professional
+
+- MS Project
+- Project management
+- Integrity
+- Independence
 
 :::
 ::::::

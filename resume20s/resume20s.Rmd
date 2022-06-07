@@ -1,0 +1,94 @@
+---
+name: Taehee
+surname: Lee
+position: "Biomedical Engineer"
+address: "Ithaca, NY"
+phone: 805 300 8160
+profilepic: headshot.jpg
+#www: mariecurie.com
+email: "tl592@cornell.edu"
+#twitter: mariecurie
+#github: mariecurie
+linkedin: taehlee
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "Biomedical engineer and molecular biologist with experience in medical device industry and academic medical research looking for biotechnology/medical technology challenges that require innovative and unique solutions."
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Biomedical Engineering, MEng", "2022", "Cornell University | Ithaca, NY", "GPA: 4.00",
+  "Pre-Health, Certificate", "2017", "University of Pennsylvania | Philadelphia, PA", "GPA: 3.79",
+  "Biomedical Engineering, BS", "2013", "Northwestern University | Evanston, IL", "GPA: 3.07"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Related Experience
+
+## Project Lead | Cornell University, Ithaca NY
+```{r}
+library(tibble)
+tribble(
+  ~Year, ~ Project, ~Desc,
+  "2021-2022", "Liquid ventilation system for management of Acute Respiratory Distress Syndrome (ARDS)", c("Led engineering team in designing solution to address challenges of delivering oxygen to patients with ARDS","Tracked team progress using Atlassian Jira and met goal of delivering a transportable functional prototype","Created CAD of components and full assembly for modeling physical integration","Integrated mechanical, electronic, and sensor components into a functioning system under time pressure")
+) %>% 
+  detailed_entries(
+    when = Year,
+    what = Project, 
+    why = Desc)
+```
+
+## Children's Hospital of Philadelphia, Philadelphia PA\  \  \  \   Research Technician
+```{r}
+library(tibble)
+tribble(
+  ~Year, ~ Project, ~Desc,
+  "2019-2021", "A zebrafish model of Friedreich ataxia for drug screening", c("Lead investigator - Developed and validated CRISPR-Cas9 modified zebrafish through verification of mutant genotypes, evaluation of disease-associated phenotypes and face validity"),
+  "2017-2019", "Screening of random shRNA-expressing library in a cellular model of MELAS", c("Lead investigator - Identified reproducible conditions for in vitro screening, screened shRNA library and cloned candidates, investigated potentially affected pathways in MELAS"),
+) %>% 
+  detailed_entries(
+    when = Year,
+    what = Project, 
+    why = Desc)
+```
+
+ * I poisoned myself doing research.
+ * I was the first woman to win a Nobel prize
+ * I was the first person and only woman to win a Nobel prize in two different sciences.
+
+# Nobel Prizes
+
+```{r}
+tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
+# Publications
+
+```{r}
+library(dplyr)
+knitr::write_bib(c("vitae", "tibble"), "packages.bib")
+
+bibliography_entries("packages.bib") %>%
+  arrange(desc(author$family), issued)
+```
+

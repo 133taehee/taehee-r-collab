@@ -1,6 +1,6 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Resume - Taehee Lee"
+author: Taehee Lee
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -10,7 +10,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 
 ---
 
@@ -18,184 +18,202 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Taehee Lee](headshot.png){height=50%,width=50%}
 
 
-Contact Info {#contact}
+Contact {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
-- For more information, please contact me via email.
+- <i class="fa fa-envelope"></i> tl592@cornell.edu
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/taehlee](https://www.linkedin.com/in/taehlee/)
+- <i class="fa fa-phone"></i> +1 805-300-8160
 
 
-Skills {#skills}
+Professional Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-- Full experience with next generation sequencing data analysis.
-
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+Project management, verbal and written interpersonal communication, integrity, independence, primary and secondary research, strong work ethic, attention to detail
 
 
-Disclaimer {#disclaimer}
+Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+Engineering analysis, medical device design, molecular biology techniques, statistical analysis (Excel, Minitab, R), CAD (Fusion 360, Solidworks), COMSOL, R, MS Project, MATLAB
 
-Last updated on `r Sys.Date()`.
 
+Publications {#skills}
+--------------------------------------------------------------------------------
+
+- [10.1021/acschemneuro.0c00323](https://doi.org/10.1021/acschemneuro.0c00323)
+- [10.1124/jpet.118.252759](https://doi.org/10.1124/jpet.118.252759)
 
 
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Taehee Lee {#title}
+--------------------------------------------------------------------------------
+Biomedical engineer/molecular biologist with experience in medical device industry and academic translational research seeking challenges requiring innovative solutions.
+
+Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+### Cornell University
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+M.Eng. in Biomedical Engineering
+
+Ithaca, NY
+
+2022
+
+GPA: 4.00
+
+Related coursework: Project Management, Tissue Engineering, Stem Cell Bioengineering, Bioprocess Engineering, Computer-Aided Engineering, Data Science in R, Biofluid Mechanics, Entrepreneurship
+
+### University of Pennsylvania
+
+Certificate in Pre-Health
+
+Philadelphia, PA
+
+2017
+
+GPA: 3.79
+
+### Northwestern University
+
+B.S. in Biomedical Engineering
+
+Evanston, IL
+
+2013
+
+GPA: 3.07
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Related Experience {data-icon=wrench}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Meinig School of Biomedical Engineering, Cornell University
 
-B.S. in Information and Computing Sciences
+Design Engineer
 
-Beijing, China
+Ithaca, NY
 
-2010
+2022 - 2021
 
-Thesis: Dyadic wavelet and its application in edge detection
+*Liquid ventilation system for management of Acute Respiratory Distress Syndrome*
 
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+-	Led engineering team in designing and delivering transportable functional prototype
+-	Created CAD of components and full assembly for modeling physical integration
+-	Integrated mechanical, electronic, and sensor components into a functioning system under time pressure
+- Second place in BME design competition
+- Third place in Autodesk Fusion 360 CAD competition
 
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
+### Children's Hospital of Philadelphia
 
-### Graduate Research Assistant
+Research Technician
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+Philadelphia, PA
 
-Beijing, China
+2021 - 2017
 
-2011 - 2014
+*A zebrafish model of Friedreich ataxia for drug screening* - lead investigator
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+- Developed and validated CRISPR-Cas9 modified zebrafish through verification of mutant genotypes, evaluation of disease-associated phenotypes and face validity
 
-### Bioinformatican
+*Screening of random shRNA-expressing library in a cellular model of MELAS* - lead investigator
 
-My Health Gene Technology Co., Ltd.
+-	Identified reproducible conditions for in vitro screening, screened shRNA library and cloned candidates, investigated potentially affected pathways in MELAS
 
-Beijing, China
+### Medtronic Diabetes
 
-2015 - 2016
+R&D Engineer
 
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
+Northridge, CA
 
-### Visiting Scientist
+2016 - 2013
 
-University of Alabama at Birmingham
+-	Collaborated in cross-functional engineering groups to ensure developing product designs met product requirements, regulatory guidelines, and international standards
+-	Defined design requirements, specifications, and test methodologies for product in development
+-	Guided team members on verification, validation, and qualification activities for product development
+-	Managed expectations of project supervisors while keeping team aligned with milestone goals
 
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
   
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+<!-- Professional Experience {data-icon=suitcase} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-### Data Scientist, intern
+<!-- ### Data Scientist, intern -->
 
-SupStat Inc.
+<!-- SupStat Inc. -->
 
-Beijing, China
+<!-- Beijing, China -->
 
-2014
+<!-- 2014 -->
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
+<!-- ::: concise -->
+<!-- - Taught R language to beginners.  -->
+<!-- - Wrote Shiny app demos. -->
+<!-- - Converted statistical tutorials from SPSS to R language. -->
+<!-- ::: -->
 
-### Bioinformatician
+<!-- ### Bioinformatician -->
 
-My Health Gene Technology Co., Ltd.
+<!-- My Health Gene Technology Co., Ltd. -->
 
-Beijing, China
+<!-- Beijing, China -->
 
-2015 - 2016
+<!-- 2015 - 2016 -->
 
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
+<!-- ::: concise -->
+<!-- - Analyzed whole-exome sequencing data.  -->
+<!-- - Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq. -->
+<!-- - Studied tumor metastasis and wrote research reports.  -->
+<!-- - Also did case studies to identify the genetic defect causing rare disease. -->
+<!-- ::: -->
 
 
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
+<!-- Teaching Experience {data-icon=chalkboard-teacher} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+<!-- ### Introduction to R Language for Beginners. -->
 
-Poster for 2013 International Conference of Genomics
+<!-- Instructor of R and Data Mining Training Courses at SupStat Inc. -->
 
-Qingdao, China
+<!-- Beijing, China -->
 
-2014
+<!-- 2014 -->
 
-**Yu L**, Chen B, Zhang Z.
+<!-- ### Computational Biology and Bioinformatics. -->
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+<!-- Teaching assistant of GBS CB2-201 courses at UAB -->
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+<!-- AL, USA -->
 
-N/A
+<!-- 2016 - 2017 -->
 
-2016 
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+<!-- Selected Publications and Posters {data-icon=file} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing. -->
+
+<!-- Poster for 2013 International Conference of Genomics -->
+
+<!-- Qingdao, China -->
+
+<!-- 2014 -->
+
+<!-- **Yu L**, Chen B, Zhang Z. -->
+
+<!-- ### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling. -->
+
+<!-- J Cell Sci. 2016 May 15;129(10):2075-84. -->
+
+<!-- N/A -->
+
+<!-- 2016  -->
+
+<!-- Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W.  -->
