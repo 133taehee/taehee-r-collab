@@ -66,7 +66,7 @@ Ithaca, NY
 
 2022
 
-GPA: 4.00
+GPA: 4.06
 
 Related coursework: Project Management, Tissue Engineering, Stem Cell Bioengineering, Bioprocess Engineering, Computer-Aided Engineering, Data Science in R, Biofluid Mechanics, Entrepreneurship
 
