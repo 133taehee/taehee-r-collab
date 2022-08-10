@@ -92,7 +92,7 @@ Related Experience {data-icon=wrench}
 
 ### Meinig School of Biomedical Engineering, Cornell University
 
-Design Engineer
+Product Development - MEng Project
 
 Ithaca, NY
 
@@ -100,10 +100,11 @@ Ithaca, NY
 
 *Liquid ventilation system for management of Acute Respiratory Distress Syndrome*
 
--	Led engineering team in designing and delivering transportable functional prototype, placing 2nd in BME Design Competition
--	Created CAD of components and full assembly for modeling physical integration, placing 3rd in BME Autodesk Fusion 360 competition
-- Guided team's design efforts and verification experiments with focus on defined need criteria
--	Integrated various designed/selected mechanical, electronic, and sensor components into a functioning system over 4-month period
+-	Led engineering team in designing and delivering transportable functional liquid ventilation system prototype
+-	Created CAD of components and full system for modeling physical integration
+- Awarded 2nd place in Design Competition and 3rd place in Autodesk Fusion 360 Competition at Cornell's 6th Biomedical Engineering Industry Engagement Showcase
+- Guided design efforts and verification with focus on defined need criteria
+-	Integrated various designed/selected mechanical, electronic, and sensor components into a functioning system
 
 
 ### Children's Hospital of Philadelphia
