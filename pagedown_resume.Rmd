@@ -32,13 +32,13 @@ Contact {#contact}
 Professional Skills {#skills}
 --------------------------------------------------------------------------------
 
-Project management, verbal and written interpersonal communication, integrity, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
+Project management, verbal and written interpersonal communication, user interviews, integrity, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
 
 
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-Engineering analysis, medical device design, molecular biology techniques, statistical analysis (Excel, Minitab, R), CAD (Fusion 360, Solidworks), COMSOL, R, MS Project, MATLAB
+Engineering analysis, medical device design, molecular biology techniques, statistical analysis (Excel, Minitab, R), CAD (Fusion 360, Solidworks), COMSOL, OQ/PQ/IQ, dFMEA, R, MS Project, MATLAB
 
 
 Publications {#skills}
@@ -134,7 +134,7 @@ Northridge, CA
 
 -	Collaborated in cross-functional engineering groups to ensure developing product designs met product requirements, regulatory guidelines, and international standards
 -	Defined design requirements, specifications, and test methodologies for product in development to be in line with all patient needs
--	Guided team members on verification, validation, and qualification activities for product development as a technical project management lead
+-	Guided team members on design verification and process validation activities for product development as a technical project management lead
 -	Managed expectations of project supervisors while keeping team aligned with milestone goals
 - Brought validation protocols and documentation practices into compliance through extensive communication with FDA representatives as part of CAPA activities over 6-month period
 
