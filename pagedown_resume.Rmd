@@ -26,6 +26,7 @@ Contact {#contact}
 
 - <i class="fa fa-envelope"></i> tl592@cornell.edu
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/taehlee](https://www.linkedin.com/in/taehlee/)
+- <i class="fa fa-globe"></i> [133taehee.github.io](https://133taehee.github.io/)
 - <i class="fa fa-phone"></i> +1 805-300-8160
 
 
