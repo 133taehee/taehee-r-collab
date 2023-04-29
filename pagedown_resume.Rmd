@@ -24,7 +24,7 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> tl592@cornell.edu
+- <i class="fa fa-envelope"></i> taehee.r.lee@gmail.com
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/taehlee](https://www.linkedin.com/in/taehlee/)
 - <i class="fa fa-globe"></i> [133taehee.github.io](https://133taehee.github.io/)
 - <i class="fa fa-phone"></i> +1 805-300-8160
@@ -33,13 +33,13 @@ Contact {#contact}
 Professional Skills {#skills}
 --------------------------------------------------------------------------------
 
-Project management, verbal and written interpersonal communication, user interviews, integrity, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
+Project management, verbal and written interpersonal communication, user interviews, cGMP, integrity, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
 
 
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-Engineering analysis, medical device design, molecular biology techniques, statistical analysis (Excel, Minitab, R), CAD (Fusion 360, Solidworks), COMSOL, OQ/PQ/IQ, dFMEA, R, MS Project, MATLAB
+Engineering analysis, medical device design, statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), COMSOL, OQ/PQ/IQ, dFMEA, molecular biology techniques, MS Project, MATLAB
 
 
 Publications {#skills}
@@ -54,46 +54,26 @@ Main
 
 Taehee Lee {#title}
 --------------------------------------------------------------------------------
-Biomedical engineer experienced in medical device development and academic translational research. Seeking innovative projects that require taking on various roles.
-
-Education {data-icon=graduation-cap}
---------------------------------------------------------------------------------
-
-### Cornell University
-
-M.Eng. in Biomedical Engineering
-
-Ithaca, NY
-
-2022
-
-GPA: 4.06
-
-Related coursework: Project Management, Tissue Engineering, Stem Cell Bioengineering, Bioprocess Engineering, Computer-Aided Engineering, Data Science in R, Biofluid Mechanics, Entrepreneurship
-
-### University of Pennsylvania
-
-Certificate in Pre-Health
-
-Philadelphia, PA
-
-2017
-
-### Northwestern University
-
-B.S. in Biomedical Engineering
-
-Evanston, IL
-
-2013
-
+Biomedical engineer with hands-on experience in medical device design and development + academic translational research. Seeking innovative projects that require a strong advocate for users.
 
 Related Experience {data-icon=wrench}
 --------------------------------------------------------------------------------
+### Emulate, Inc.
+
+Product Development Engineer II
+
+Boston, MA
+
+Present - 2022
+
+- Rapid product development in startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
+- Project lead for design and development of next generation of microfluidic Organ-on-Chip device
+- Identify and translate user needs into design requirements and specifications
+
 
 ### Meinig School of Biomedical Engineering, Cornell University
 
-Product Development - MEng Project
+Product Development - MEng Student Project
 
 Ithaca, NY
 
@@ -103,7 +83,6 @@ Ithaca, NY
 
 -	Led engineering team in designing and delivering transportable functional liquid ventilation system prototype
 -	Created CAD of components and full system for modeling physical integration
-- Awarded 2nd place in Design Competition and 3rd place in Autodesk Fusion 360 Competition at Cornell's 6th Biomedical Engineering Industry Engagement Showcase
 - Guided design efforts and verification with focus on defined need criteria
 -	Integrated various designed/selected mechanical, electronic, and sensor components into a functioning system
 
@@ -118,12 +97,7 @@ Philadelphia, PA
 
 **Lead investigator:** *A zebrafish model of Friedreich ataxia for drug screening*
 
-- Developed and validated CRISPR-Cas9 modified zebrafish through verification of mutant genotypes, evaluation of disease-associated phenotypes and face validity
-- Manuscript in preparation
-
 **Lead investigator:** *Screening of random shRNA-expressing library in a cellular model of MELAS*
-
--	Identified reproducible conditions for in vitro screening, screened shRNA library and cloned candidates, investigated potentially affected pathways in MELAS
 
 ### Medtronic Diabetes
 
@@ -133,11 +107,44 @@ Northridge, CA
 
 2016 - 2013
 
--	Collaborated in cross-functional engineering groups to ensure developing product designs met product requirements, regulatory guidelines, and international standards
+-	Collaborated with multiple functional teams to ensure developing product designs met product requirements, regulatory guidelines, and international standards
 -	Defined design requirements, specifications, and test methodologies for product in development to be in line with all patient needs
--	Guided team members on design verification and process validation activities for product development as a technical project management lead
--	Managed expectations of project supervisors while keeping team aligned with milestone goals
-- Brought validation protocols and documentation practices into compliance through extensive communication with FDA representatives as part of CAPA activities over 6-month period
+- Improved communication of patient/physician user needs (VOC) to engineering
+-	Guided team members on design verification and process validation activities for product development as a technical project lead
+-	Managed expectations of project supervisors and aligned team to milestone goals
+- Brought validation protocols and documentation practices into compliance through extensive communication with FDA representatives as part of CAPA activities
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Cornell University
+
+M.Eng. in Biomedical Engineering
+
+Ithaca, NY
+
+2022
+
+
+Related coursework: Project Management, Tissue Engineering, Stem Cell Bioengineering, Bioprocess Engineering, Computer-Aided Engineering, Data Science in R, Biofluid Mechanics, Entrepreneurship
+
+### University of Pennsylvania
+
+Certificate in Pre-Health (Pre-Med)
+
+Philadelphia, PA
+
+2017
+
+### Northwestern University
+
+B.S. in Biomedical Engineering
+
+Evanston, IL
+
+2013
+
+Related coursework: Systems Physiology, Tissue Engineering
 
   
 
