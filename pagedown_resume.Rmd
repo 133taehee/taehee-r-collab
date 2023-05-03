@@ -33,13 +33,13 @@ Contact {#contact}
 Professional Skills {#skills}
 --------------------------------------------------------------------------------
 
-Project management, verbal and written interpersonal communication, user interviews, cGMP, integrity, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
+Project management, verbal and written interpersonal communication, user interviews, integrity, adaptability, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
 
 
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-Engineering analysis, medical device design, statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), COMSOL, OQ/PQ/IQ, dFMEA, molecular biology techniques, MS Project, MATLAB
+Engineering analysis, product design, statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), GD&T, COMSOL, OQ/PQ/IQ, FMEA, molecular biology techniques, MS Project, MATLAB
 
 
 Publications {#skills}
@@ -54,7 +54,7 @@ Main
 
 Taehee Lee {#title}
 --------------------------------------------------------------------------------
-Biomedical engineer with hands-on experience in medical device design and development + academic translational research. Seeking innovative projects that require a strong advocate for users.
+Biomedical engineer with hands-on experience in product design and development + academic translational research. Seeking innovative projects that require a strong advocate for users.
 
 Related Experience {data-icon=wrench}
 --------------------------------------------------------------------------------
