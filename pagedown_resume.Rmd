@@ -54,22 +54,23 @@ Main
 
 Taehee Lee {#title}
 --------------------------------------------------------------------------------
-Biomedical engineer with hands-on experience in product design and development + academic translational research. Seeking innovative projects that require a strong advocate for users.
+Product development engineer with in medical/biotech product design and development. Seeking innovative projects that require a strong advocate for patients/users.
 
 Related Experience {data-icon=wrench}
 --------------------------------------------------------------------------------
 ### Emulate, Inc.
 
-Product Development Engineer II
+Product Development Engineer III
 
 Boston, MA
 
-Present - 2022
+2022 - Present
 
 - Rapid product development in startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
-- Project lead for design and development of next generation of microfluidic Organ-on-Chip device
+- Technical lead for design and development of next generation of microfluidic Organ-on-Chip device
 - Identify and translate user needs into design requirements and specifications
-
+- Plan, execute, and manage 
+- Transfer to manufacturing
 
 ### Meinig School of Biomedical Engineering, Cornell University
 
@@ -77,7 +78,7 @@ Product Development - MEng Student Project
 
 Ithaca, NY
 
-2022 - 2021
+2021 - 2022
 
 *Liquid ventilation system for management of Acute Respiratory Distress Syndrome*
 
@@ -109,7 +110,7 @@ Northridge, CA
 
 -	Collaborated with multiple functional teams to ensure developing product designs met product requirements, regulatory guidelines, and international standards
 -	Defined design requirements, specifications, and test methodologies for product in development to be in line with all patient needs
-- Improved communication of patient/physician user needs (VOC) to engineering
+- Improved communication of patient/physician user needs (VOC) to engineering through direct interaction with clinical sites
 -	Guided team members on design verification and process validation activities for product development as a technical project lead
 -	Managed expectations of project supervisors and aligned team to milestone goals
 - Brought validation protocols and documentation practices into compliance through extensive communication with FDA representatives as part of CAPA activities
@@ -135,6 +136,9 @@ Certificate in Pre-Health (Pre-Med)
 Philadelphia, PA
 
 2017
+
+
+Related activities: ER student volunteer, surgeon/physician shadowing
 
 ### Northwestern University
 
