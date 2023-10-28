@@ -33,13 +33,13 @@ Contact {#contact}
 Professional Skills {#skills}
 --------------------------------------------------------------------------------
 
-Project management, verbal and written interpersonal communication, user interviews, integrity, adaptability, independence, primary and secondary research, strong work ethic, attention to detail, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
+Project management, verbal and written interpersonal communication, user interviews, integrity, adaptability, independence, primary and secondary research, strong work ethic, task prioritization, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
 
 
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-Engineering analysis, product design, statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), GD&T, COMSOL, OQ/PQ/IQ, FMEA, molecular biology techniques, MS Project, MATLAB
+Engineering analysis and testing, product design, rapid prototyping (3D printing [SLA, FDM], CNC machining), statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), DFM/A, GD&T, COMSOL, OQ/PQ/IQ, FMEA, molecular biology techniques, MS Project, MATLAB
 
 
 Publications {#skills}
@@ -54,7 +54,7 @@ Main
 
 Taehee Lee {#title}
 --------------------------------------------------------------------------------
-Product development engineer with in medical/biotech product design and development. Seeking innovative projects that require a strong advocate for patients/users.
+Product development engineer with 4 years experience in medical/biotech device design and development. Seeking innovative projects requiring strong advocacy for patients/users.
 
 Related Experience {data-icon=wrench}
 --------------------------------------------------------------------------------
@@ -66,11 +66,10 @@ Boston, MA
 
 2022 - Present
 
-- Rapid product development in startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
-- Technical lead for design and development of next generation of microfluidic Organ-on-Chip device
-- Identify and translate user needs into design requirements and specifications
-- Plan, execute, and manage 
-- Transfer to manufacturing
+- Rapid product development in biotech startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
+- Responsible and accountable for milestone deliverables as technical lead for design and development of next generation of microfluidic Organ-on-Chip device
+- Prototype, refine, evaluate feasibility of, and verify designs
+- Initiate, develop, and maintain relationships with suppliers, consultants, and manufacturer to continuously improve design, assembly, and quality
 
 ### Meinig School of Biomedical Engineering, Cornell University
 
@@ -83,22 +82,19 @@ Ithaca, NY
 *Liquid ventilation system for management of Acute Respiratory Distress Syndrome*
 
 -	Led engineering team in designing and delivering transportable functional liquid ventilation system prototype
--	Created CAD of components and full system for modeling physical integration
-- Guided design efforts and verification with focus on defined need criteria
+-	Created 3D models of components/full system for modeling physical integration
+- Guided design efforts and verification with focus on defining needs criteria
 -	Integrated various designed/selected mechanical, electronic, and sensor components into a functioning system
-
 
 ### Children's Hospital of Philadelphia
 
-Research Technician
+Research Technician III
 
 Philadelphia, PA
 
 2017 - 2021
 
-**Lead investigator:** *A zebrafish model of Friedreich ataxia for drug screening*
-
-**Lead investigator:** *Screening of random shRNA-expressing library in a cellular model of MELAS*
+**Lead investigator:** *A zebrafish model of Friedreich ataxia for drug screening* | *Screening of random shRNA-expressing library in a cellular model of MELAS*
 
 ### Medtronic Diabetes
 
@@ -108,12 +104,11 @@ Northridge, CA
 
 2013 - 2016
 
--	Collaborated with multiple functional teams to ensure developing product designs met product requirements, regulatory guidelines, and international standards
--	Defined design requirements, specifications, and test methodologies for product in development to be in line with all patient needs
+-	Worked in cross-functional teams to ensure medical device designs met product requirements, FDA regulatory guidelines, and international standards
+-	Identified and defined user needs, design requirements, specifications, and test methodologies and analyzed process/design risks
 - Improved communication of patient/physician user needs (VOC) to engineering through direct interaction with clinical sites
 -	Guided team members on design verification and process validation activities for product development as a technical project lead
--	Managed expectations of project supervisors and aligned team to milestone goals
-- Brought validation protocols and documentation practices into compliance through extensive communication with FDA representatives as part of CAPA activities
+- Contributed to bringing validation protocols, quality documentation practices, and GMP into FDA compliance as part of CAPA activities
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -127,7 +122,9 @@ Ithaca, NY
 2022
 
 
-Related coursework: Project Management, Tissue Engineering, Stem Cell Bioengineering, Bioprocess Engineering, Computer-Aided Engineering, Data Science in R, Biofluid Mechanics, Entrepreneurship
+Related coursework: Project Management, Computer-Aided Engineering, Tissue Engineering, Biofluid Mechanics, Stem Cell Bioengineering, Entrepreneurship, Bioprocess Engineering, Data Science in R
+<!--  -->
+
 
 ### University of Pennsylvania
 
@@ -138,7 +135,7 @@ Philadelphia, PA
 2017
 
 
-Related activities: ER student volunteer, surgeon/physician shadowing
+Related activities: ER/Radiology volunteer, surgeon/physician shadowing
 
 ### Northwestern University
 
@@ -148,7 +145,7 @@ Evanston, IL
 
 2013
 
-Related coursework: Systems Physiology, Tissue Engineering
+Related coursework: Systems Physiology, Tissue Engineering, Soft Materials (Polymers)
 
   
 
