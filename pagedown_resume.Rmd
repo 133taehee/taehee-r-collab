@@ -39,7 +39,7 @@ Project management, verbal and written interpersonal communication, user intervi
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-Engineering analysis and testing, product design, rapid prototyping (3D printing [SLA, FDM], CNC machining), statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), DFM/A, GD&T, COMSOL, OQ/PQ/IQ, FMEA, molecular biology techniques, MS Project, MATLAB
+Engineering analysis and testing, product design, rapid prototyping (3D printing [SLA, FDM], CNC machining), statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), DFM/A, GD&T, COMSOL, OQ/PQ/IQ, Gage R&R, FMEA, molecular biology techniques, MS Project, MATLAB
 
 
 Publications {#skills}
@@ -66,7 +66,7 @@ Boston, MA
 
 2022 - Present
 
-- Rapid product development in biotech startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
+- Rapid new product development in biotech startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
 - Responsible and accountable for milestone deliverables as technical lead for design and development of next generation of microfluidic Organ-on-Chip device
 - Prototype, refine, evaluate feasibility of, and verify designs
 - Initiate, develop, and maintain relationships with suppliers, consultants, and manufacturer to continuously improve design, assembly, and quality
@@ -104,8 +104,8 @@ Northridge, CA
 
 2013 - 2016
 
--	Worked in cross-functional teams to ensure medical device designs met product requirements, FDA regulatory guidelines, and international standards
--	Identified and defined user needs, design requirements, specifications, and test methodologies and analyzed process/design risks
+-	Worked in cross-functional teams to ensure class II medical device designs met product requirements, FDA regulatory guidelines, and international standards
+-	Identified and defined user needs, design requirements, specifications, and test methodologies and analyzed process/design risks as part of design control process
 - Improved communication of patient/physician user needs (VOC) to engineering through direct interaction with clinical sites
 -	Guided team members on design verification and process validation activities for product development as a technical project lead
 - Contributed to bringing validation protocols, quality documentation practices, and GMP into FDA compliance as part of CAPA activities
