@@ -1,0 +1,222 @@
+---
+title: "Resume - Taehee Lee"
+author: Taehee Lee
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css:
+      - override.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume               # DEFAULT FILE
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+
+---
+
+Aside
+================================================================================
+
+
+![Taehee Lee](headshot.png){height=50%,width=50%}
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> taehee.r.lee@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/taehlee](https://www.linkedin.com/in/taehlee/)
+- <i class="fa fa-globe"></i> [133taehee.github.io](https://133taehee.github.io/)
+- <i class="fa fa-phone"></i> +1 805-300-8160
+
+
+Professional Skills {#skills}
+--------------------------------------------------------------------------------
+
+Project management, verbal and written interpersonal communication, user interviews, adaptability, independence, primary and secondary research, task prioritization, implementation, team coordination, diligence, persistent curiosity, broad knowledge base
+
+
+Technical Skills {#skills}
+--------------------------------------------------------------------------------
+
+Engineering analysis and testing, product design, rapid prototyping (3D printing [SLA, FDM], CNC machining), CAD (SOLIDWORKS, Fusion 360), data analysis (Excel, Minitab, R, MATLAB), DFM/A, GD&T, COMSOL, OQ/PQ/IQ, FMEA, molecular biology techniques, MS Project
+
+
+Publications {#skills}
+--------------------------------------------------------------------------------
+
+- [10.1021/acschemneuro.0c00323](https://doi.org/10.1021/acschemneuro.0c00323)
+- [10.1124/jpet.118.252759](https://doi.org/10.1124/jpet.118.252759)
+
+
+Main
+================================================================================
+
+Taehee Lee {#title}
+--------------------------------------------------------------------------------
+Biomedical engineer experienced in product development process of medical and biotech devices. Seeking innovative projects requiring strong advocacy for patients/users.
+
+Related Experience {data-icon=wrench}
+--------------------------------------------------------------------------------
+### Emulate, Inc.
+
+Product Development Engineer III
+
+Boston, MA
+
+2022 - Present
+
+- Rapid product development in biotech startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
+- Design, develop, and manufacturing transfer of Organ-on-Chip microfluidic system consumables as lead engineer
+- Prototype, refine, evaluate feasibility of, and verify designs using various prototyping methods, established test procedures, and new test strategies
+- Initiate, develop, and maintain relationships with suppliers, consultants, and manufacturers to continuously improve design, assembly, and quality
+- Leverage partners' expertise on manufacturing methods (injection molding, laser cutting, die cutting, micromachining, thermoplastics) to inform designs
+
+### Meinig School of Biomedical Engineering, Cornell University
+
+Product Development - MEng Student Project
+
+Ithaca, NY
+
+2021 - 2022
+
+*Liquid ventilation system for management of Acute Respiratory Distress Syndrome*
+
+-	Led student engineering team in designing and delivering transportable functional liquid ventilation system prototype
+- Led design and verification efforts with focus on defining needs criteria
+-	Integrated motors, valves, pistons, and sensors with circuit design controlled by NI CompactDAQ through LABVIEW to deliver functioning liquid pumping system
+
+### Children's Hospital of Philadelphia
+
+Research Technician III
+
+Philadelphia, PA
+
+2017 - 2021
+
+**Lead investigator:** *A zebrafish model of Friedreich ataxia for drug screening* | *Screening of random shRNA-expressing library in a cellular model of MELAS*
+
+### Medtronic Diabetes
+
+R&D Engineer
+
+Northridge, CA
+
+2013 - 2016
+
+-	Worked in cross-functional teams to ensure glucose sensor designs met product requirements, FDA regulatory guidelines, and international standards
+-	Identified and defined user needs, design requirements, specifications, and analyzed process/design risks per ISO 13485/FDA 21 CFR 820
+- Improved communication of patient/physician user needs (VOC) to engineering through direct interaction with clinical sites
+-	Guided team members on design verification and process validation activities for product development as a technical project lead
+- Contributed to bringing validation protocols, quality documentation practices, and GMP into FDA compliance as part of CAPA activities
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Cornell University
+
+M.Eng. in Biomedical Engineering
+
+️Ithaca, NY
+
+‎
+
+Related coursework: Project Management, Computer-Aided Engineering, Tissue Engineering, Biofluid Mechanics, Stem Cell Bioengineering, Entrepreneurship, Bioprocess Engineering, Data Science in R
+<!--  -->
+
+
+### University of Pennsylvania
+
+Certificate in Pre-Health (Pre-Med)
+
+Philadelphia, PA
+
+‎
+
+### Northwestern University
+
+B.S. in Biomedical Engineering
+
+Evanston, IL
+
+‎
+
+Related coursework: Systems Physiology, Tissue Engineering, Soft Materials (Polymers)
+
+  
+
+<!-- Professional Experience {data-icon=suitcase} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Data Scientist, intern -->
+
+<!-- SupStat Inc. -->
+
+<!-- Beijing, China -->
+
+<!-- 2014 -->
+
+<!-- ::: concise -->
+<!-- - Taught R language to beginners.  -->
+<!-- - Wrote Shiny app demos. -->
+<!-- - Converted statistical tutorials from SPSS to R language. -->
+<!-- ::: -->
+
+<!-- ### Bioinformatician -->
+
+<!-- My Health Gene Technology Co., Ltd. -->
+
+<!-- Beijing, China -->
+
+<!-- 2015 - 2016 -->
+
+<!-- ::: concise -->
+<!-- - Analyzed whole-exome sequencing data.  -->
+<!-- - Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq. -->
+<!-- - Studied tumor metastasis and wrote research reports.  -->
+<!-- - Also did case studies to identify the genetic defect causing rare disease. -->
+<!-- ::: -->
+
+
+<!-- Teaching Experience {data-icon=chalkboard-teacher} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Introduction to R Language for Beginners. -->
+
+<!-- Instructor of R and Data Mining Training Courses at SupStat Inc. -->
+
+<!-- Beijing, China -->
+
+<!-- 2014 -->
+
+<!-- ### Computational Biology and Bioinformatics. -->
+
+<!-- Teaching assistant of GBS CB2-201 courses at UAB -->
+
+<!-- AL, USA -->
+
+<!-- 2016 - 2017 -->
+
+
+<!-- Selected Publications and Posters {data-icon=file} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing. -->
+
+<!-- Poster for 2013 International Conference of Genomics -->
+
+<!-- Qingdao, China -->
+
+<!-- 2014 -->
+
+<!-- **Yu L**, Chen B, Zhang Z. -->
+
+<!-- ### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling. -->
+
+<!-- J Cell Sci. 2016 May 15;129(10):2075-84. -->
+
+<!-- N/A -->
+
+<!-- 2016  -->
+
+<!-- Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W.  -->
