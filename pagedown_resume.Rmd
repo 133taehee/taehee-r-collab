@@ -39,7 +39,7 @@ Project management, verbal and written interpersonal communication, user intervi
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-Engineering analysis and testing, product design, rapid prototyping (3D printing [SLA, FDM], CNC machining), statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), DFM/A, GD&T, COMSOL, OQ/PQ/IQ, Gage R&R, FMEA, molecular biology techniques, MS Project, MATLAB
+Engineering analysis and testing, product design, rapid prototyping (3D printing [SLA, FDM], CNC machining), statistical analysis (Excel, Minitab, R), CAD (SOLIDWORKS, Fusion 360), DFM/A, GD&T, COMSOL, OQ/PQ/IQ, Gage R&R, FMEA, MS Project, MATLAB
 
 
 Publications {#skills}
@@ -54,7 +54,7 @@ Main
 
 Taehee Lee {#title}
 --------------------------------------------------------------------------------
-Product development engineer with 4 years experience in medical/biotech device design and development. Seeking innovative projects requiring strong advocacy for patients/users.
+Product development engineer with 5 years experience in medical/biotech device design and development. Seeking innovative projects requiring strong advocacy for patients/users.
 
 Related Experience {data-icon=wrench}
 --------------------------------------------------------------------------------
@@ -66,8 +66,8 @@ Boston, MA
 
 2022 - Present
 
+- Led design, development, and design transfer of Chip-R1 microfluidic consumable through successful product launch
 - Rapid new product development in biotech startup environment in collaboration with product management, biologists, and multiple disciplines of engineers
-- Responsible and accountable for milestone deliverables as technical lead for design and development of next generation of microfluidic Organ-on-Chip device
 - Prototype, refine, evaluate feasibility of, and verify designs
 - Initiate, develop, and maintain relationships with suppliers, consultants, and manufacturer to continuously improve design, assembly, and quality
 
